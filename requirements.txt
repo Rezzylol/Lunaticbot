@@ -1,0 +1,11 @@
+Flask
+Flask-SQLAlchemy
+SQLAlchemy
+base58
+flask
+jinja2
+python-telegram-bot>=20.0
+requests
+solana
+solders
+werkzeug
